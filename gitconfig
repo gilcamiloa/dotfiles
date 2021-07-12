@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cgilv6@gmail.com
+	name = Camilo Gil
